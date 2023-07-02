@@ -60,6 +60,3 @@ def store_data():
 
 if __name__ == '__main__':
     app.run()
-
-
-#asking because if that's so the task is straight forward right so just want to be clear thanks
