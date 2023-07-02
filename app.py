@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from bson import json_util
 
 app = Flask(__name__)
-mongodb_uri = 'mongodb+srv://satya:satya@cluster0.eb3co.mongodb.net/?retryWrites=true&w=majority'
+mongodb_uri = 'add the mongodb uri'
 client = MongoClient(mongodb_uri)
 db = client['information']
 
